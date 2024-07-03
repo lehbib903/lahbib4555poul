@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\moh\\Desktop\\Prog1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2698D05D-37D0-4392-AE32-9F64D55A4B0B}|Prog1\\Prog1.vbproj|c:\\users\\moh\\desktop\\prog1\\prog1\\sublair.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2698D05D-37D0-4392-AE32-9F64D55A4B0B}|Prog1\\Prog1.vbproj|solutionrelative:prog1\\sublair.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2698D05D-37D0-4392-AE32-9F64D55A4B0B}|Prog1\\Prog1.vbproj|c:\\users\\moh\\desktop\\prog1\\prog1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{2698D05D-37D0-4392-AE32-9F64D55A4B0B}|Prog1\\Prog1.vbproj|solutionrelative:prog1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
@@ -23,6 +27,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Sublair.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\moh\\Desktop\\Prog1\\Prog1\\Sublair.vb",
+              "RelativeDocumentMoniker": "Prog1\\Sublair.vb",
+              "ToolTip": "C:\\Users\\moh\\Desktop\\Prog1\\Prog1\\Sublair.vb [Design]",
+              "RelativeToolTip": "Prog1\\Sublair.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-03T15:54:26.931Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "C:\\Users\\moh\\Desktop\\Prog1\\Prog1\\Form1.vb",
               "RelativeDocumentMoniker": "Prog1\\Form1.vb",

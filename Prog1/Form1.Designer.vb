@@ -26,6 +26,7 @@ Partial Class Form1
         DateTimePicker1 = New DateTimePicker()
         TextBox1 = New TextBox()
         Panel1 = New Panel()
+        Panel2 = New Panel()
         SuspendLayout()
         ' 
         ' Button1
@@ -39,14 +40,14 @@ Partial Class Form1
         ' 
         ' DateTimePicker1
         ' 
-        DateTimePicker1.Location = New Point(81, 123)
+        DateTimePicker1.Location = New Point(66, 67)
         DateTimePicker1.Name = "DateTimePicker1"
         DateTimePicker1.Size = New Size(66, 23)
         DateTimePicker1.TabIndex = 1
         ' 
         ' TextBox1
         ' 
-        TextBox1.Location = New Point(199, 65)
+        TextBox1.Location = New Point(199, 41)
         TextBox1.Name = "TextBox1"
         TextBox1.Size = New Size(69, 23)
         TextBox1.TabIndex = 2
@@ -58,11 +59,19 @@ Partial Class Form1
         Panel1.Size = New Size(147, 84)
         Panel1.TabIndex = 3
         ' 
+        ' Panel2
+        ' 
+        Panel2.Location = New Point(50, 140)
+        Panel2.Name = "Panel2"
+        Panel2.Size = New Size(65, 59)
+        Panel2.TabIndex = 4
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(521, 293)
+        Controls.Add(Panel2)
         Controls.Add(Panel1)
         Controls.Add(TextBox1)
         Controls.Add(DateTimePicker1)
@@ -77,5 +86,6 @@ Partial Class Form1
     Friend WithEvents DateTimePicker1 As DateTimePicker
     Friend WithEvents TextBox1 As TextBox
     Friend WithEvents Panel1 As Panel
+    Friend WithEvents Panel2 As Panel
 
 End Class
